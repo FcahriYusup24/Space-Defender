@@ -1,0 +1,20 @@
+﻿# Build artifacts & binaries
+build/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# IDE & Editor settings
+.vscode/
+.vs/
+*.user
+
+# OS files
+Thumbs.db
+desktop.ini
